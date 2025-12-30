@@ -128,7 +128,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-bulatik205-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bulatik205)
 [![Website](https://img.shields.io/badge/Website-bulatik.website-FF7139?style=for-the-badge&logo=google-chrome&logoColor=white)](https://bulatik.website)
 
-![Visitors](https://komarev.com/ghpvc/?username=bulatik205&color=blueviolet&style=flat-square)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=bulatik205.profile&color=00cf00)
 
 **⭐ Не забудьте поставить звезду на интересных репозиториях!**
 
