@@ -1,124 +1,75 @@
-# 🚀 Hello!
-
 > 🗣️ **Choose language / Выберите язык:**  
 > [🇷🇺 Русский](#russian) | [🇺🇸 English](#english)
 
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Bulat&fontSize=50&fontAlignY=35&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Bulatik205&fontSize=40&fontAlignY=35&animation=fadeIn)
 
-**15 y.o. Developer from Russia** 
+</div>
+
+<div align="center">
+  
+## ☄️ Меня зовут **Булат** ☄️
+### 🍀 Мне 15 лет, я начинающий разработчик
 
 [![Website](https://img.shields.io/badge/Website:bulatik.website-FF7139?style=for-the-badge&logoColor=white)](https://bulatik.website)
-
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/bulatik205)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bulatik205)
 
-</div>
-
----
-
-<a id="russian"></a>
-<div align="center" id="russian">
-
-# 🇷🇺 Русская версия
-
-## 👋 Обо мне
-
-Меня зовут **Булат**. Мне 15 лет, я начинающий full-stack разработчик из России. Учусь и развиваюсь каждый день с 27 октября 2024
-
-</div>
-
-## 🛠️ Стек
-
-### 🔧 Основной стек
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 📚 Технологии
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-FF6F61?style=for-the-badge)
-![AJAX](https://img.shields.io/badge/AJAX-0088CC?style=for-the-badge)
-![OAuth](https://img.shields.io/badge/OAuth-4285F4?style=for-the-badge&logo=openid&logoColor=white)
-![Telegram API](https://img.shields.io/badge/Telegram%20Bot%20API-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
+</div>
 
-## 🎯 Хочу изучить
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![plug](https://capsule-render.vercel.app/api?type=transparent&height=100)
+
+<div align="center">
+  
+![Header](https://capsule-render.vercel.app/api?type=cylinder&height=10&color=gradient)
 
 ## 💼 Мои любимые проекты
 
-### 1. 📚 [Homework WEB](https://github.com/bulatik205/homework)
-**Многофункциональная платформа для школьников**
-> Сайт для добавления, просмотра и модерации домашних заданий
-
-![GitHub stars](https://img.shields.io/github/stars/bulatik205/homework?style=flat-square)
-![GitHub last commit](https://img.shields.io/github/last-commit/bulatik205/homework?style=flat-square)
-
-**Технологии:** `PHP` `MySQL` `JavaScript` [Подробнее](https://bulatik.website/projects/3/)
+### 😇 Любимые
+  
+#### 📚 [Homework Bot](https://github.com/bulatik205/homework-bot) - система для управления домашним заданием. За основу взят Homework Web. Это обычный телеграм бот для управления и добавления домашнего задания. Без ролей.  
+#### 🎰 [PC Game](https://github.com/bulatik205/pcgame) - мини игра-телеграм бот, в которой предстоит купить более крутые комплектующие для вооброжаемого компьютера.
+#### 🤖 [Telegram TBot](https://github.com/bulatik205/telegram-tbot) - CLI утилита для создания скелета телеграм бота. Создаются файлы-конфиги, базовая структура бота (`index.php`) и `webhook.php`, который активирует бота.
+#### 👻 [Anonymous-telegram-bot](https://github.com/bulatik205/anonymous-telegram-bot) - бот для обмена анонимными сообщениями в телеграм. 
 
 ---
 
-### 2. 🕵️ [Anonymous Telegram Bot](https://github.com/bulatik205/anonymous-telegram-bot)
-**Анонимный мессенджер в Telegram**
-> Пользователи получают уникальную ссылку для анонимных сообщений
+### 🥶 Реализованные идеи
 
-![GitHub stars](https://img.shields.io/github/stars/bulatik205/anonymous-telegram-bot?style=flat-square)
+#### 📚 [Homework Web](https://github.com/bulatik205/homework) - система для управления домашним заданием. Есть система ролей: пользователи, администраторы, владельцы.
+#### ⚙️ [Construnctor](https://github.com/bulatik205/constructor) - система для создания своих телеграм ботов по некому шаблону. Один пользователь - один бот
+#### 👀 [Hosting](https://github.com/bulatik205/hosting) - система для хостинга файлов html/css/js. Только одна папка. Один пользователь - один сайт
+#### 🔗 [Linker](https://github.com/bulatik205/linker) - сайт для создания кнопок быстрого доступа
 
-**Технологии:** `PHP` `Telegram Bot API` `MySQL`
-
----
-
-### 3. 🛒 [Shop Example](https://github.com/bulatik205/shop-example)
-**Пример интернет-магазина с REST API**
-> Адаптивный фронтенд и бэкенд с API
-
-![GitHub stars](https://img.shields.io/github/stars/bulatik205/shop-example?style=flat-square)
-
-**Технологии:** `PHP` `REST API` `JavaScript` `CSS`
-
----
-
-### 4. ⚙️ [Telegram TBot](https://github.com/bulatik205/telegram-tbot)
-**CLI приложение для Telegram на PHP**
-> Эксперимент по созданию CLI инструмента для работы с Telegram
-
-![GitHub stars](https://img.shields.io/github/stars/bulatik205/telegram-tbot?style=flat-square)
-
-**Технологии:** `PHP CLI` `Telegram API`
-
-## ✨ Интересные факты
-
-> 🎮 **Начал с Minecraft** – хотели с кентами поднять сервер и сделать сайт, сервер не подняли, а вёрстка увлекла настолько, что продолжаю до сих пор
-
-> ❓ **Движет любопытство** – большинство проектов начинались с вопроса "А можно ли сделать так?"
-
-> 🏆 **Self-made разработчик** – всё, что знаю, освоил самостоятельно через документацию, статьи и практику
-
-> ⏱️ **Дисциплина** – строго следую правилу "ни дня без кода" уже несколько месяцев
-
----
-
-<a id="english"></a>
-<div align="center">
-
-# 🇺🇸 English Version
-
-*(Тут будет английская версия текста)*
+![Footer](https://capsule-render.vercel.app/api?type=cylinder&height=10&color=gradient)
 
 </div>
 
+![plug](https://capsule-render.vercel.app/api?type=transparent&height=100)
+
+![Bulatik205's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bulatik205&theme=react-dark&hide_border=true)
+
+![plug](https://capsule-render.vercel.app/api?type=transparent&height=100)
+
+# 🏆 Обо мне
+- **Живу в России**
+- **Пишу код с 14 лет**
+- **2 комерческих заказа**
+- **Стараюсь что то делать, даже если не получается**
+- **Обожаю [LeetCode](https://leetcode.com/) и [Сириус Курсы](https://edu.sirius.online/#/)**
+
 ---
+
+# 🔥 Факты:
+- **Для первого комерческого заказа пришлось с нуля изучать базовую документацию [AmoCRM](https://www.amocrm.ru/). Утром впервые узнал про Amo, а в обед уже был готов Телеграм Бот, который собирал номера телефонов**
+- **27 октября 2024 года у меня появилась идея написать сайт. 30 октября я изучил минимальные основы HTML/CSS/JS, а через месяц уже уверенно делал небольшие странички**
+- **Я прошел курс в [VK Education](https://education.vk.company/) под названием "Продакт-менеджмент". С тех пор мое мышление изменилось**
 
 <div align="center">
 
@@ -128,8 +79,9 @@
 [![GitHub](https://img.shields.io/badge/GitHub-bulatik205-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bulatik205)
 [![Website](https://img.shields.io/badge/Website-bulatik.website-FF7139?style=for-the-badge&logo=google-chrome&logoColor=white)](https://bulatik.website)
 
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bulatik205&theme=github_dark)
+
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=bulatik205.profile&color=00cf00)
 
-**⭐ Не забудьте поставить звезду на интересных репозиториях!**
-
+![Header](https://capsule-render.vercel.app/api?type=wave&height=150&color=gradient&animation=fadeIn&section=footer)
 </div>
