@@ -1,6 +1,3 @@
-> 🗣️ **Choose language / Выберите язык:**  
-> [🇷🇺 Русский](#russian) | [🇺🇸 English](#english)
-
 <div align="center">
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Bulatik205&fontSize=40&fontAlignY=35&animation=fadeIn)
@@ -9,8 +6,11 @@
 
 <div align="center">
   
-## ☄️ Меня зовут **Булат** ☄️
-### 🍀 Мне 15 лет, я начинающий разработчик
+# ☄️ Меня зовут **Булат** ☄️
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=500&color=FF79C6&center=true&vCenter=true&width=435&lines=Fullstack+Developer;15+years+old+coder;PHP+%7C+JS+%7C+HTML+%7C+CSS;Always+learning+new+things" alt="Typing SVG" />
+</div>
 
 [![Website](https://img.shields.io/badge/Website:bulatik.website-FF7139?style=for-the-badge&logoColor=white)](https://bulatik.website)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/bulatik205)
@@ -53,23 +53,23 @@
 
 ![plug](https://capsule-render.vercel.app/api?type=transparent&height=100)
 
-![Bulatik205's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bulatik205&theme=react-dark&hide_border=true)
+![Bulatik205's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bulatik205&theme=dracula&hide_border=true)
 
 ![plug](https://capsule-render.vercel.app/api?type=transparent&height=100)
 
 # 🏆 Обо мне
 - **Живу в России**
 - **Пишу код с 14 лет**
-- **2 комерческих заказа**
+- **2 коммерческих заказа**
 - **Стараюсь что то делать, даже если не получается**
 - **Обожаю [LeetCode](https://leetcode.com/) и [Сириус Курсы](https://edu.sirius.online/#/)**
 
 ---
 
 # 🔥 Факты:
-- **Для первого комерческого заказа пришлось с нуля изучать базовую документацию [AmoCRM](https://www.amocrm.ru/). Утром впервые узнал про Amo, а в обед уже был готов Телеграм Бот, который собирал номера телефонов**
+- **Для первого коммерческого заказа пришлось с нуля изучать базовую документацию [AmoCRM](https://www.amocrm.ru/). Утром впервые узнал про Amo, а в обед уже был готов Телеграм Бот, который собирал номера телефонов**
 - **27 октября 2024 года у меня появилась идея написать сайт. 30 октября я изучил минимальные основы HTML/CSS/JS, а через месяц уже уверенно делал небольшие странички**
-- **Я прошел курс в [VK Education](https://education.vk.company/) под названием "Продакт-менеджмент". С тех пор мое мышление изменилось**
+- **Прошел курс в [VK Education](https://education.vk.company/) "Продакт-менеджмент". С тех пор мышление изменилось**
 
 <div align="center">
 
@@ -79,7 +79,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-bulatik205-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bulatik205)
 [![Website](https://img.shields.io/badge/Website-bulatik.website-FF7139?style=for-the-badge&logo=google-chrome&logoColor=white)](https://bulatik.website)
 
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bulatik205&theme=github_dark)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bulatik205&theme=dracula)
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=bulatik205.profile&color=00cf00)
 
