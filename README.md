@@ -26,7 +26,9 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&height=100&color=FF79C6&animation=fadeIn&section=footer)
 
+[/ this return scarry error. wait
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bulatik205&theme=dracula)
+/]
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=bulatik205.profile&color=FF79C6)
 </div>
